@@ -11,7 +11,12 @@
 <br>- 💬 Ask me about everything 🤗<br>
 <br>- 📫 How to reach me <a href="mailto:zharovandrey1989@gmail.com">Email</a> or <a href="https://t.me/kotttobormottt">Telegram</a><br>
 </p>
+
+<h1 align="center">GitHub Statistics</h1><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![](https://komarev.com/ghpvc/?username=your-github-username)
