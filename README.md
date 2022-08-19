@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋!! I'm Andrey Zharov 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>!! I'm Andrey Zharov </h1>
 <h3 align="center">I am a junior python developer👨‍💻 Started his way in development in 2022 🚀</h3>
 
 **kotttobormottt/kotttobormottt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
