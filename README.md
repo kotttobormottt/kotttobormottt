@@ -12,5 +12,5 @@
 </p>
 
 <h1 align="center">GitHub Statistics</h1><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![AZ GitHub stats](https://github-readme-stats.vercel.app/api?username=kotttobormottt)](https://github.com/kotttobormottt/github-readme-stats)
 <br>
