@@ -12,4 +12,4 @@
 </p>
 
 <h1 align="center">GitHub Statistics</h1>
-[Andrey Zharov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotttobormottt)
+<a href="https://github-readme-stats.vercel.app/api?username=kotttobormottt">Andrey Zharov's GitHub stats</a>
