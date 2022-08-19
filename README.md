@@ -3,8 +3,8 @@
 
 
 
-<p line-height: 1.5>
-<br>- 🔭 I’m currently studying in Yandex Practicum
+<p>
+<br>- 🔭 I’m currently studying in Yandex Practicum<br>
 <br>- 🌱 I’m currently learning Python, Django, HTML5, CSS3
 <br>- 👯 I’m looking to collaborate on ...
 <br>- 🤔 I’m looking for help with ...
