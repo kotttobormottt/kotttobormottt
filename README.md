@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi👋!! I'm Andrey Zharov
 
+I am a junior python developer👨‍💻 Started his way in development in 2022 🚀
 <!--
 **kotttobormottt/kotttobormottt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
