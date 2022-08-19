@@ -11,6 +11,5 @@
 <br>- 📫 How to reach me <a href="mailto:zharovandrey1989@gmail.com">Email</a> or <a href="https://t.me/kotttobormottt">Telegram</a><br>
 </p>
 
-<h1 align="center">GitHub Statistics</h1><br>
-[![Andrey Zharov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotttobormottt)](https://github.com/kotttobormottt/github-readme-stats)
-<br>
+<h1 align="center">GitHub Statistics</h1>
+[![Andrey Zharov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotttobormottt)]
