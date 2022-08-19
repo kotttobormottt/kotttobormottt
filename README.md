@@ -12,4 +12,5 @@
 </p>
 
 <h1 align="center">GitHub Statistics</h1>
-[![Andrey Zharov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotttobormottt)](https://github.com/kotttobormottt/github-readme-stats)
+[![Andrey Zharov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotttobormottt)]
+(https://github.com/kotttobormottt/github-readme-stats)
