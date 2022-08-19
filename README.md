@@ -5,11 +5,9 @@
 
 <p>
 <br>- 🔭 I’m currently studying in Yandex Practicum<br>
-<br>- 🌱 I’m currently learning Python, Django, HTML5, CSS3
-<br>- 👯 I’m looking to collaborate on ...
-<br>- 🤔 I’m looking for help with ...
-<br>- 💬 Ask me about ...
-<br>- 📫 How to reach me <a href="mailto:zharovandrey1989@gmail.com">Email</a>
-<br>- 😄 Pronouns: ...
-<br>- ⚡ Fun fact: ...
+<br>- 🌱 I’m currently learning Python, Django, HTML5, CSS3<br>
+<br>- 👯 I’m looking to collaborate on Tech projects with Python<br>
+<br>- 🤔 I’m looking for help with ...<br>
+<br>- 💬 Ask me about everything 🤗<br>
+<br>- 📫 How to reach me <a href="mailto:zharovandrey1989@gmail.com">Email</a> or <a href="https://t.me/kotttobormottt">Telegram</a><br>
 </p>
