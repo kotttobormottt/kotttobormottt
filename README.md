@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>!! I'm Andrey Zharov </h1>
-<h3 align="center">I am a junior python developer👨‍💻 Started his way in development in 2022 🚀</h3>
+<h3 align="center">I'm a junior python developer👨‍💻 Started his way in development in 2022 🚀</h3>
 
 
 
