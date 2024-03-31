@@ -11,12 +11,12 @@
 
 <h2 align="center">My Scils:</h2>
 <p>
-<br>- MVC/MVP/MVVM
-<br>- SOLID/KISS/DRY/YAGNI
-<br>- AutoLayout
-<br>- User Defaults
-<br>- Async/Await
-<br>- URLSession, URLRequest
+<br>- MVC/MVP/MVVM<br>
+<br>- SOLID/KISS/DRY/YAGNI<br>
+<br>- AutoLayout<br>
+<br>- User Defaults<br>
+<br>- Async/Await<br>
+<br>- URLSession, URLRequest<br>
 </p>
 
 <h2 align="center">Technology Stack:</h2>
