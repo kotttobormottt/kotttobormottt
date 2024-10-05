@@ -11,12 +11,20 @@
 
 <h2 align="center">My Scils:</h2>
 <p>
+<br>- UIKit/SwiftUI<br>
 <br>- MVC/MVP/MVVM<br>
 <br>- SOLID/KISS/DRY/YAGNI<br>
+<br>- CoreData<br>
+<br>- User Defaults/ Keychain<br>
+<br>- SPM/CocoaPods<br>
+<br>- Notification Center/ KVO<br>
 <br>- AutoLayout<br>
-<br>- User Defaults<br>
-<br>- Async/Await<br>
-<br>- URLSession, URLRequest<br>
+<br>- URLSession<br>
+<br>- UI/Unit Tests<br>
+<br>- JSON/Protobuf<br>
+<br>- REST/gRPC API<br>
+<br>- Combine<br>
+<br>- Async/await<br>
 </p>
 
 <h2 align="center">Technology Stack:</h2>
