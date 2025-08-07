@@ -2,7 +2,7 @@
 <h3 align="center">I'm a junior iOS developer👨‍💻 Started his way in development in 2023 🚀</h3>
 
 <p>
-<br>- 🔭 I’m currently studying in Yandex Practicum<br>
+<br>- 🔭 I’m currently studying in SwiftBook<br>
 <br>- 🌱 I’m currently learning Swift, XCode, Objective-C <br>
 <br>- 👯 I’m looking to collaborate on Tech projects with Swift<br>
 <br>- 💬 Ask me about everything 🤗<br>
